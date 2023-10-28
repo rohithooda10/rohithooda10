@@ -17,9 +17,9 @@ I'm an M.Tech student at the International Institute of Information Technology, 
 
 Here are some projects I'm proud of:
 
-1. [Digital Moodboard](link-to-project-1): A highly scable digital moodboard rich with social features.
-2. [Terminal Based File Explorer](link-to-project-2): A linux terminal based file explorer with 2 modes and several functionalities.
-3. [Peer-2-Peer File Sharing Mini Torrent](link-to-project-3): A p2p file sharing system with SHA1 verification and multiple trackers.
+1. [Digital Moodboard](https://github.com/rohithooda10/digital-moodboard): A highly scable digital moodboard with microservice architecture and rich with social features.
+2. [Terminal Based File Explorer](https://github.com/rohithooda10/file-explorer): A linux terminal based file explorer with 2 modes and several functionalities.
+3. [Peer-2-Peer File Sharing Mini Torrent](https://github.com/rohithooda10/mini-torrent-p2p): A p2p file sharing system with SHA1 verification and multiple trackers.
 
 Feel free to explore my repositories for more!
 
