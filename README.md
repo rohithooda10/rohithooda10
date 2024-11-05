@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Rohit Hooda
 
-I'm an M.Tech student at the International Institute of Information Technology, Hyderabad, passionate about leveraging technology to solve real-world problems. My focus lies in Web development and Machine Learning, and I'm currently studying Computer Science and Engineering.
+I'm an M.Tech graduate from International Institute of Information Technology, Hyderabad, passionate about leveraging technology to solve real-world problems. My focus lies in Web development and Machine Learning, and I'm currently studying Computer Science and Engineering.
 
 - 🌱 Currently learning and growing every day
 - 🤝 Open to collaboration on exciting projects
