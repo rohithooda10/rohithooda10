@@ -1,17 +1,11 @@
 ## Hey there! 👋 I'm Rohit Hooda
+🎓 M.Tech Graduate in CSE from IIIT Hyderabad | Passionate Full-Stack Developer & Backend Engineer
 
-I'm an M.Tech graduate from International Institute of Information Technology, Hyderabad, passionate about leveraging technology to solve real-world problems. My focus lies in Web development and Machine Learning, and I'm currently studying Computer Science and Engineering.
-
-- 🌱 Currently learning and growing every day
-- 🤝 Open to collaboration on exciting projects
-- 🚀 Exploring new horizons in tech
+🚀 Focused on leveraging technology to solve real-world problems, I specialize in backend systems and scalable solutions. My expertise spans **Golang**, **Python**, and the **MERN stack**, complemented by hands-on experience in cloud computing and distributed systems.
 
 ### 🔧 Skills
-
-- Python | C++ | Java
-- MERN stack | Web development
-- React Native | App development
-- Git | GitHub
+**Languages:** Golang, Python, C++, Java, JavaScript  
+**Technologies:** AWS, Docker, Kubernetes, Kafka, Redis, React.js, Node.js, MongoDB, PostgreSQL 
 
 ### 🌟 Projects
 
@@ -22,6 +16,11 @@ Here are some projects I'm proud of:
 3. [Peer-2-Peer File Sharing Mini Torrent](https://github.com/rohithooda10/mini-torrent-p2p): A p2p file sharing system with SHA1 verification and multiple trackers.
 
 Feel free to explore my repositories for more!
+
+### 🏆 Achievements
+- Published **5 mobile games** on the Google Play Store with 250+ downloads.
+- Won a citywide painting competition and received ₹10,000.
+- Ranked in the **top 13% on LeetCode** with 1200+ problems solved.
 
 ### 📫 Contact
 
